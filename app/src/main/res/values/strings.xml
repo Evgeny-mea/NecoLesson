@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NecoLesson</string>
+    <string name="sub_text">Введите кол-во подписчиков</string>
+    <string name="enter_sub">Имя работника</string>
+    <string name="enter_pass">Пароль</string>
+    <string name="result">Узнать</string>
+</resources>
